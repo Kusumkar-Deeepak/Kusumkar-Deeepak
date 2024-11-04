@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I am a passionate Programmer, from Latur, Maharashtra. I love working on web development.
 
-- 🔭 I’m currently working on a Result Management System
+- 🔭 I’m currently working on a MediConnect - A Doctor Appointment Booking System.
 - 🌱 I have completed front-end development with HTML, CSS, JavaScript, Bootstrap, and Tailwind and back-end development with Express.js, Node.js, and MongoDB. Now, I am learning React.js
 
 - 💬 Ask me about JavaScript, Node.js, and MongoDB
