@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a dedicated programmer from Latur, Maharashtra, with a passion for building impactful web applications.
 
-🌟 **Recently completed:** [**MediConnect**](#), a Doctor Appointment Booking System designed to streamline patient-doctor interactions.
+🌟 **Recently completed:** [**MediConnect**](https://medi-connect-35d1.onrender.com/), a Doctor Appointment Booking System designed to streamline patient-doctor interactions.
 
 🔭 **Currently working on:** **QuizProctor**, a secure and feature-rich online MCQ test platform with real-time proctoring to prevent cheating during exams.
 
