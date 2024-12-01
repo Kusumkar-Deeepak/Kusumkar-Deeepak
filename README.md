@@ -3,7 +3,10 @@
 ## 🚀 About Me
 I'm a dedicated programmer from Latur, Maharashtra, with a passion for building impactful web applications.
 
-- 🔭 Currently working on **MediConnect**, a Doctor Appointment Booking System to streamline patient-doctor interactions.
+🌟 **Recently completed:** [**MediConnect**](#), a Doctor Appointment Booking System designed to streamline patient-doctor interactions.
+
+🔭 **Currently working on:** **QuizProctor**, a secure and feature-rich online MCQ test platform with real-time proctoring to prevent cheating during exams.
+
 - 🌱 I've completed front-end development with **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **Tailwind** and back-end development with **Express.js**, **Node.js**, and **MongoDB**. Currently diving deeper into **React.js** to enhance my front-end skills.
   
 - 💬 Ask me about **JavaScript**, **Node.js**, and **MongoDB** – I love discussing and sharing knowledge.
