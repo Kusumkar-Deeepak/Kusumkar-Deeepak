@@ -5,7 +5,7 @@ I'm a dedicated programmer from Latur, Maharashtra, with a passion for building 
 
 🌟 **Recently completed:** [**MediConnect**](https://medi-connect-35d1.onrender.com/), a Doctor Appointment Booking System designed to streamline patient-doctor interactions.
 
-🔭 **Currently working on:** **QuizProctor**, a secure and feature-rich online MCQ test platform with real-time proctoring to prevent cheating during exams.
+🔭 **Currently working on:** **RideOn**, modern ride-hailing service clone built using cutting-edge web development technologies.
 
 - 🌱 I've completed front-end development with **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **Tailwind** and back-end development with **Express.js**, **Node.js**, and **MongoDB**. Currently diving deeper into **React.js** to enhance my front-end skills.
   
