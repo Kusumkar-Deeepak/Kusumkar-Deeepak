@@ -3,9 +3,9 @@
 ## 🚀 About Me
 I'm a dedicated programmer from Latur, Maharashtra, with a passion for building impactful web applications.
 
-🌟 **Recently completed:** [**MediConnect**](https://medi-connect-35d1.onrender.com/), a Doctor Appointment Booking System designed to streamline patient-doctor interactions.
+🌟 **Recently completed:** [**AI CodeSense**](https://a-codesense.onrender.com/), an AI-powered code reviewer that helps developers analyze and improve their code with real-time feedback!.
 
-🔭 **Currently working on:** **RideOn**, modern ride-hailing service clone built using cutting-edge web development technologies.
+🔭 **Currently working on:** **DetectAI**, an system to detect the ai data or the info from the documents like ppt's, word, pdf's and images.
 
 - 🌱 I've completed front-end development with **HTML**, **CSS**, **JavaScript**, **Bootstrap**, and **Tailwind** and back-end development with **Express.js**, **Node.js**, and **MongoDB**. Currently diving deeper into **React.js** to enhance my front-end skills.
   
