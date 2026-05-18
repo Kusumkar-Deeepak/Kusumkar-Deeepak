@@ -40,13 +40,6 @@ deepak = {
 
 ---
 
-### 🤖 [AI CodeSense — Intelligent Code Review System](https://a-codesense.onrender.com/)
-> Real-time AI-powered code analysis and improvement tool
-- Integrated **Gemini AI** for context-aware code review, bug detection, and refactoring suggestions
-- `Node.js` `Express.js` `Gemini AI` `React.js` `MongoDB`
-
----
-
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / ML / GenAI
