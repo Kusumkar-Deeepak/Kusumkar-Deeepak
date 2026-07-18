@@ -1,138 +1,102 @@
-<div align="center">
+# Deepak Kusumkar
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Deepak%20Kusumkar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20Engineer%20%7C%20Backend%20Developer%20%7C%20GenAI%20Builder&descAlignY=58&descColor=a78bfa" />
+**Backend & AI Infrastructure Engineer** · B.E. Computer Engineering, MMCOE Pune ('27)
 
-</div>
+Currently interning at **Graymatics Inc.**, deploying GPU-accelerated AI video analytics systems in production. I build backend systems and AI infrastructure — from REST APIs and RAG pipelines to Docker-based deployment on NVIDIA inference stacks.
 
----
-
-## 🧠 Who Am I
-
-```python
-deepak = {
-    "role"       : "Software Engineer Intern @ Graymatics Inc. | AI/ML & Backend Engineer",
-    "education"  : "B.E. Computer Engineering — MMCOE Pune (CGPA: 8.62)",
-    "focus"      : ["GenAI Applications", "RAG Pipelines", "Scalable Python Backends", "Computer Vision"],
-    "currently"  : "Building AI-powered systems with LangChain, LLMs, OCR, and OpenCV",
-    "open_to"    : "AI/ML Internships, Backend Engineering Roles, GenAI Projects",
-    "contact"    : "deeepak.kusumkar@gmail.com"
-}
-```
+[LinkedIn](https://www.linkedin.com/in/deepak-kusumkar/) · [Email](mailto:deeepak.kusumkar@gmail.com)
 
 ---
 
-## 🚀 Featured Projects
+## Currently
 
-### 🔐 [ACRIS — AI Compliance & Regulatory Intelligence System](https://github.com/Kusumkar-Deeepak/ACRIS_Autonomous_Compliance_and_Regulatory_Intelligence_System)
-> Full-stack GenAI platform for intelligent document compliance analysis
-- Built a **RAG pipeline** (LangChain + Llama 3 + ChromaDB) for automated PDF extraction and compliance reporting
-- Designed **FastAPI-style microservices** with JWT-secured REST APIs and MongoDB persistence
-- Reduced manual audit overhead by **60%** through AI-driven workflow automation
-- `React.js` `Node.js` `Python` `LangChain` `RAG` `ChromaDB` `MongoDB` `JWT`
+- Deploying GPU-accelerated video analytics pipelines with **NVIDIA Triton**, **DeepStream**, and **Docker** at Graymatics
+- Building **RAG systems** with LangChain and open-weight LLMs
+- Looking for **backend engineering** / **AI platform engineering** roles for 2027
 
 ---
 
-### 📄 [SmartDoc — Scalable AI Document Processing Platform](https://smartdoc-ai.onrender.com/)
-> Production-grade OCR + NLP backend with real-time analytics
-- Engineered an **OCR + NLP pipeline** that classifies and persists content from PDFs, DOCX, and scanned images
-- Delivered **sub-300ms** API response times with automated PDF report generation at scale
-- `React.js` `Express.js` `Python` `MongoDB` `OCR` `NLP` `REST APIs`
+## Experience
+
+**Software Engineer Intern — Deployment Engineer, AI Video Analytics**
+Graymatics Inc. · Jan 2026 – Present · Remote
+
+- Own end-to-end deployment of a GPU-accelerated video analytics stack on Ubuntu servers, containerizing services with Docker and Docker Compose.
+- Configure and validate NVIDIA Triton Inference Server and DeepStream pipelines with FFmpeg-based stream ingestion for real-time inference in production.
+- Replaced ad-hoc manual setup with a repeatable, guided rollout process, reducing deployment variance and environment-related failures.
+- Diagnose and resolve GPU stack and environment issues during post-deployment validation.
+- Partner with AI engineers on computer vision data pipelines (object detection, image segmentation) using OpenCV; automate annotation workflows with Roboflow and LabelImg.
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Projects
 
-### 🤖 AI / ML / GenAI
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG_Pipelines-6d28d9?style=flat-square&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama_Llama3-111827?style=flat-square&logoColor=white)
-![OCR](https://img.shields.io/badge/OCR_Pipelines-0f766e?style=flat-square&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-7c3aed?style=flat-square&logoColor=white)
-![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white)
+### [ACRIS — AI Compliance & Regulatory Intelligence Platform](https://github.com/Kusumkar-Deeepak/ACRIS_Autonomous_Compliance_and_Regulatory_Intelligence_System)
+Full-stack platform where AI-assisted compliance analysis is grounded in retrieved source documents instead of free-form model output.
+- Node.js/Express backend in an MVC structure, MongoDB persistence, JWT auth with role-based access control
+- RAG pipeline (LangChain + Llama 3 + vector store) for automated document analysis and compliance checks
+- Modular REST APIs for document ingestion and AI-powered analysis
 
-### ⚙️ Backend & APIs
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT_Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-0ea5e9?style=flat-square&logoColor=white)
+`React` `Node.js` `Express` `MongoDB` `LangChain` `RAG` `ChromaDB` `JWT`
 
-### 🗄️ Databases & Storage
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-F97316?style=flat-square&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat-square&logoColor=white)
+### [SmartDoc — AI Document Processing Platform](https://smartdoc-ai.onrender.com/)
+Document-intelligence backend that parses PDF, DOCX, and image input through an OCR + NLP pipeline, exposed via a single REST interface.
+- Centralized error handling, request validation, and query optimization for real-time document processing
+- AI features layered on top of the core pipeline: summarization, sentiment analysis, key-entity extraction
 
-### 🎨 Frontend
-![React.js](https://img.shields.io/badge/React.js-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+`React` `Express` `Python` `MongoDB` `OCR` `NLP`
 
-### 🔧 Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+### [IncluReach — Accessibility-First Job Portal](https://github.com/Kusumkar-Deeepak)
+Job portal connecting candidates with disabilities to employers, built for the Google Developer Solution Challenge.
+- AI-powered job-post validation to catch fake or non-compliant listings using Google Gemini
+- Disability-specific filters and smart matching based on accommodation needs
 
----
+`React` `Express.js` `Google Gemini` `MongoDB`
 
-## 📊 GitHub Stats
+### [MediConnect — Healthcare Access Platform](https://github.com/Kusumkar-Deeepak)
+Platform connecting patients with healthcare providers for hospital search, appointment booking, and doctor consultations.
+- Location-based hospital search and appointment booking with automated email confirmations
+- Hospital admin dashboard for managing profiles, appointments, and reviews
+- JWT-based authentication and Nodemailer-driven notification system
 
-<div align="center">
+`React` `Node.js` `Express` `MongoDB` `JWT` `Nodemailer`
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kusumkar-Deeepak&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusumkar-Deeepak&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" />
+### [SmartTask — AI-Assisted Task Manager](https://github.com/Kusumkar-Deeepak)
+NLP-powered task manager that parses natural-language input into structured, prioritized tasks.
+- Natural-language task entry (e.g., "Add high-priority meeting tomorrow")
+- Secure, per-user storage with dynamic filtering by priority and status
 
-</div>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kusumkar-Deeepak&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
-
-</div>
+`React` `MongoDB` `NLP`
 
 ---
 
-## 🏆 GitHub Trophies
+## Tech Stack
 
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kusumkar-Deeepak&theme=tokyonight&no-frame=true&margin-w=12&margin-h=12&column=7)
-
-</div>
-
----
-
-## 📜 Certifications
-
-| Certificate | Issuer |
-|---|---|
-| 🎓 Career Essentials in Generative AI | LinkedIn Learning |
-| 🏅 Postman API Fundamentals Student Expert | Postman |
-| 🌐 GDG Solution Challenge India | Google Developer Groups |
+**Backend:** Python · Node.js · Express.js · FastAPI · REST APIs · MVC Architecture · JWT Auth · Microservices
+**AI / GenAI:** LangChain · RAG Pipelines · LLM Integration (Gemini, Llama 3) · OpenCV · Computer Vision · OCR · NLP
+**Databases:** MongoDB · ChromaDB · Mongoose · Redis
+**Deployment & Infrastructure:** Docker · Docker Compose · Linux (Ubuntu) · NVIDIA GPU Stack · Triton Inference Server · DeepStream · FFmpeg
+**Frontend:** React.js · TypeScript · Tailwind CSS · HTML5/CSS3
+**Tools:** Git · GitHub · Postman · Roboflow · LabelImg
 
 ---
 
-## 🌐 Let's Connect
+## GitHub Stats
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepak-kusumkar/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deeepak.kusumkar@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kusumkar-Deeepak)
-
-</div>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Kusumkar-Deeepak&show_icons=true&theme=default&hide_border=true&title_color=24292f&icon_color=24292f&text_color=57606a" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kusumkar-Deeepak&layout=compact&theme=default&hide_border=true&title_color=24292f&text_color=57606a" />
 
 ---
 
-<div align="center">
+## Certifications
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" />
+- **Career Essentials in Generative AI** — LinkedIn Learning
+- **Postman API Fundamentals Student Expert** — Postman
+- **GDG on Campus Solution Challenge India** — Google Developer Groups
+- **Introduction to MongoDB** — MongoDB University
 
-</div>
+---
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/deepak-kusumkar/) · [Email](mailto:deeepak.kusumkar@gmail.com) · [GitHub](https://github.com/Kusumkar-Deeepak)
